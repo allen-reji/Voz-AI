@@ -1,0 +1,5 @@
+flask==2.0.1
+twilio==7.16.0
+ollama==0.5.13
+pandas==2.0.3
+numpy==1.21.6 

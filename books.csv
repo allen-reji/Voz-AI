@@ -1,0 +1,31 @@
+book_name,author,genre,quantity_available,price,rating,format,language,pages,discount,bestseller
+The Great Gatsby,F. Scott Fitzgerald,Classic,15,9.99,4.5,Paperback,English,180,10,Yes
+1984,George Orwell,Dystopian,20,12.99,4.7,Hardcover,English,328,15,Yes
+To Kill a Mockingbird,Harper Lee,Classic,18,14.99,4.8,Paperback,English,281,5,Yes
+Pride and Prejudice,Jane Austen,Romance,12,11.99,4.6,Hardcover,English,432,10,Yes
+The Catcher in the Rye,J.D. Salinger,Classic,10,13.99,4.3,Paperback,English,214,0,No
+The Hobbit,J.R.R. Tolkien,Fantasy,25,16.99,4.9,Hardcover,English,310,20,Yes
+Animal Farm,George Orwell,Satire,22,10.99,4.7,Paperback,English,141,5,Yes
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,30,24.99,4.9,Hardcover,English,1137,25,Yes
+Brave New World,Aldous Huxley,Dystopian,15,11.99,4.4,Paperback,English,288,10,No
+Fahrenheit 451,Ray Bradbury,Dystopian,20,12.99,4.5,Hardcover,English,249,15,Yes
+Moby-Dick,Herman Melville,Adventure,8,15.99,4.1,Paperback,English,635,5,No
+The Alchemist,Paulo Coelho,Philosophical,17,10.49,4.7,Hardcover,Portuguese,208,20,Yes
+War and Peace,Leo Tolstoy,Historical,5,19.99,4.6,Paperback,Russian,1225,30,No
+Crime and Punishment,Fyodor Dostoevsky,Classic,10,14.49,4.8,Hardcover,Russian,671,10,Yes
+Don Quixote,Miguel de Cervantes,Classic,12,13.99,4.7,Hardcover,Spanish,1056,15,Yes
+One Hundred Years of Solitude,Gabriel García Márquez,Magical Realism,18,14.99,4.8,Paperback,Spanish,417,10,Yes
+Les Misérables,Victor Hugo,Historical,6,18.99,4.8,Hardcover,French,1463,25,No
+The Little Prince,Antoine de Saint-Exupéry,Fable,20,8.99,4.9,Paperback,French,96,15,Yes
+Wuthering Heights,Emily Bronte,Classic,9,12.49,4.3,Paperback,English,416,10,No
+The Shining,Stephen King,Horror,13,14.99,4.7,Hardcover,English,447,20,Yes
+The Book Thief,Markus Zusak,Historical,15,13.99,4.8,Paperback,English,552,15,Yes
+A Game of Thrones,George R.R. Martin,Fantasy,20,22.99,4.9,Hardcover,English,694,25,Yes
+The Fault in Our Stars,John Green,Romance,18,10.99,4.5,Paperback,English,313,10,Yes
+Percy Jackson & The Olympians,Rick Riordan,Fantasy,25,12.99,4.8,Paperback,English,377,10,Yes
+The Midnight Library,Matt Haig,Fiction,16,13.99,4.6,Hardcover,English,304,15,No
+Sapiens,Yuval Noah Harari,Non-fiction,22,18.99,4.9,Paperback,Hebrew,498,20,Yes
+The Three-Body Problem,Liu Cixin,Science Fiction,14,16.99,4.7,Paperback,Chinese,400,20,Yes
+Atomic Habits,James Clear,Self-Help,30,16.99,4.9,Hardcover,English,320,25,Yes
+Think and Grow Rich,Napoleon Hill,Self-Help,12,9.99,4.5,Paperback,English,238,10,No
+Rich Dad Poor Dad,Robert Kiyosaki,Finance,28,11.99,4.7,Paperback,English,336,15,Yes
