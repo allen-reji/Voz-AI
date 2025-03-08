@@ -1,6 +1,6 @@
 # Voz-AI: End-to-End Bookstore Voice Assistant with Knowledge Retrieval
 
-COMPLETE DEMO VIDEO:
+Complete Demo Video:
 https://youtu.be/kwgYwYUD6BE?si=yhapbnhmFvuNM-nh
 
 This project made for **AIQoD Hackathon 2025**, is an **AI-powered voice assistant** designed to help customers inquire about books, availability, pricing, stocks, and more at a bookstore. Customers can call the assistant, ask natural questions via voice, and receive **dynamic, AI-generated responses** based on real-time book inventory data powered by a RAG-based (Retrieval-Augmented Generation) system. The system leverages:
@@ -53,7 +53,7 @@ This project made for **AIQoD Hackathon 2025**, is an **AI-powered voice assista
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/KavinKarthik18/Voz-AI
+git clone https://github.com/allen-reji/Voz-AI
 cd project-root
 ```
 
@@ -187,7 +187,14 @@ numpy==1.21.6
 
 ## 📝 License
 
-This project is licensed under the **MIT License**. Feel free to modify and extend it!
+This project is licensed under the **MIT License**.
 
 ---
+## Contact
 
+- Allen Reji - [allenreji@gmail.com](allenreji@gmail.com)
+- Nathania Rachael - [nathaniarachael@gmail.com](nathaniarachael@gmail.com)
+- Kavin Karthik - [kavinkarthivs@gmail.com](kavinkarthivs@gmail.com)
+
+---
+*Developed for AIQoD Hackathon 2025*
